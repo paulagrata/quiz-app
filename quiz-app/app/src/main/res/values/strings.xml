@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="true_button">True</string>
+    <string name="next_button">Next Question >></string>
+    <string name="false_button">False</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="question1">An Android app requires an Activity</string>
+    <string name="question2">An app can have several manifests</string>
+    <string name="question3">Apps should use string resources</string>
+    <string name="game_score_string">Score: %1$d</string>
+    <string name="lifetime_score_string">Lifetime Score: %1$d</string>
+    <string name="game_over">Game Over</string>
+    <string name="android_quiz">Android Quiz</string>
+    <string name="start">Start</string>
+    <string name="download_error">Download Error</string>
+</resources>
